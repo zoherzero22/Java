@@ -5,6 +5,6 @@ public class Countdown {
             System.out.println(i);
         }
 
-        System.out.print("Liftoff! 🚀");
+        System.out.print("Horray");
     }
 }
